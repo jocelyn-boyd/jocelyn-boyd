@@ -3,7 +3,11 @@
 My name is Jocelyn and I'm an iOS Developer with a background in ESOL (English Speaking Other Languages) and Japanese studies.
 My programming philosphy comes from my passion of creating positive user experiences and problem solving.
 
-🙂 Pronouns: She/her
+🙂 Pronouns: She/Her
+
 👩🏾‍💻 I'm currently working on [Recipe Box](https://github.com/jocelyn-boyd/Recipe-Box)
+
 🌱 I'm currenly learning SwiftUI, C++
+
 🏢 Looking for work as a junior Software Engineer
+
