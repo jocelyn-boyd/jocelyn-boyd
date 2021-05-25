@@ -3,7 +3,7 @@
 # About me
 I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensive 10-month fellowship with a 9% acceptance rate. I had the experience of collaboration and mentorship with product managers, engineers, and other professionals in the industry to bring the features in my capstone and personal project applications to life. My programming philosophy comes from my passion for creating positive user experiences and problem-solving. I am a career-changer with a background in ESOL (English Speaking Other Languages) and Japanese studies. 
 
-👩🏾‍💻   I'm currently working on my passion project named [Recipe Box](https://github.com/jocelyn-boyd/Recipe-Box), a recipe management system.
+👩🏾‍💻   I'm currently working on my passion project named [Recipe Box](https://github.com/jocelyn-boyd/Recipe-Box), a search and management system for online recipes.
 
 🌱   I'm currently learning SwiftUI and challenging myself to do coding challenges everyday
 
