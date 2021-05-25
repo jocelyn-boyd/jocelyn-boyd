@@ -11,7 +11,7 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 
 🙂   Fun Fact: I am really into Japanese history and love exploring the castles, temples and shrines. My favorite castle is [Matsumoto Castle](https://visitmatsumoto.com/en/spot/matsumotocastle/). I have made 45 recorded visits to the temple and shrines.
 
-## Sample Projects
+## Sample Demo Projects
 |Name      |Frameworks|
 |:---------|---------:|
 |[NYC Public Art](https://github.com/jocelyn-boyd/nyc-public-art) | UIKit, MapKit |
