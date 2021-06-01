@@ -19,7 +19,7 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 ## Take Home Projects
 |Name|Description|
 |:---|----------:|
-|[USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |
+|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |
 |[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App  
 
 ## I'm interested in...
