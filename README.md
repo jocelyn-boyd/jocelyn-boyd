@@ -17,10 +17,10 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 |[NYC Public Art](https://github.com/jocelyn-boyd/nyc-public-art)|UIKit, MapKit |
 
 ## Take Home Projects
-|Name|Description|
-|:---|----------:|
-|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |
-|[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App  
+|Name|Description|Frameworks|
+|:---|-----------|---------:|
+|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |UIKit, Combine|
+|[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App|UIKit|
 
 ## I'm interested in...
 - Product Management
