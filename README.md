@@ -19,8 +19,8 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 ## Take Home Projects
 |Name|Description|Frameworks|
 |:---|-----------|---------:|
-|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |UIKit, Combine|
-|[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App|UIKit|
+|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |UIKit, Combine |
+|[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App|UIKit |
 
 ## I'm interested in...
 - Product Management
