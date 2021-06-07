@@ -9,7 +9,7 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 
 🏢   Seeking a junior iOS Software Engineer role.
 
-🙂   Fun Fact: I am really into Japanese history and love exploring the castles, temples and shrines. My favorite castle is [Matsumoto Castle](https://visitmatsumoto.com/en/spot/matsumotocastle/). I have made 45 recorded visits to temple and shrines around Japan.
+🙂   Fun Fact: I am really into Japanese history and love exploring the castles, temples and shrines. My favorite castle is [Matsumoto Castle](https://visitmatsumoto.com/en/spot/matsumotocastle/). I have made 45 recorded visits to temples and shrines around Japan.
 
 ## Demo Sample Projects
 |Name      |Frameworks|
