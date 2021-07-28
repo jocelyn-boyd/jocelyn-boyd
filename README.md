@@ -5,7 +5,7 @@ I am an iOS Developer trained at [Pursuit](https://www.pursuit.org/), an intensi
 
 👩🏾‍💻   I'm currently working on a project called [Recipe Box](https://github.com/jocelyn-boyd/recipe-box-swiftui/blob/main/README.md) in SwiftUI, a mobile search and management application for online recipes.
 
-🌱   I'm currently learning SwiftUI and challenging myself to solve coding problems everyday.
+🌱   I'm currently learning SwiftUI and how to strengthen my algorithmic thinking skills.
 
 🏢   Seeking a junior iOS Software Engineer role.
 
