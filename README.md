@@ -6,7 +6,7 @@ I am an iOS Developer trained at Pursuit, an intensive 10-month fellowship with 
 👩🏾‍💻   I'm currently working on ...
 * A personal project called [Recipe Box](https://github.com/jocelyn-boyd/recipe-box-swiftui/blob/main/README.md) in SwiftUI, a mobile search and management application for online recipes. **Update: Recipe Box v.1.0.0 is ready for TestFlight!** 🎉
 
-* Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners. 
+* Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself. 
 
 🌱   I'm currently learning ...
 * SwiftUI framework
