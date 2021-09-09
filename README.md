@@ -9,9 +9,7 @@ I am an iOS Developer trained at Pursuit, an intensive 10-month fellowship with 
 * Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself. 
 
 🌱   I'm currently learning ...
-* SwiftUI framework
-* Unit Testing
-* how to strengthen my algorithmic thinking skills.
+* how to strengthen my algorithmic thinking skills
 
 🙂   Fun Fact: I lived abroad in Japan for several years. I am really into Japanese history and love exploring the castles, temples and shrines. I have made 45 recorded visits to temples and shrines around the country.
 
