@@ -25,7 +25,7 @@ My programming philosophy comes from my passion for creating positive user exper
 |[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App|UIKit |
 
 ## I'm interested in...
-- Product Management
-- Backend and Databases
 - Accessibility
-- Localization in iOS development
+- Backend Development
+- Localization in iOS
+- Product Management
