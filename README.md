@@ -14,20 +14,3 @@ My programming philosophy comes from my passion for creating positive user exper
 * how to strengthen my algorithmic thinking skills
 
 🙂   Fun Fact: I lived abroad in Japan for several years. I am really into Japanese history and love exploring the castles, temples and shrines. I have made 45 recorded visits to temples and shrines around the country.
-
-## Demo Sample Projects (working on more!)
-|Name      |Frameworks|
-|:---------|---------:|
-|[NYC Public Art](https://github.com/jocelyn-boyd/nyc-public-art)|UIKit, MapKit |
-
-## Take Home Projects
-|Name|Description|Frameworks|
-|:---|-----------|---------:|
-|[Pursuit USV Coding Challenge](https://github.com/jocelyn-boyd/usv-takehome-coding-challenge)|Raffle App |UIKit, Combine |
-|[Tandem Coding Challenge](https://github.com/jocelyn-boyd/Tandem-Quiz)|Quiz App|UIKit |
-
-## I'm interested in...
-- Accessibility
-- Backend Development
-- Localization in iOS
-- Product Management
