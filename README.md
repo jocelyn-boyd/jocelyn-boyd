@@ -9,7 +9,7 @@ My programming philosophy comes from my passion for creating positive user exper
 * Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself 
 
 🌱   I'm currently learning ...
-* Fullstack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.github.io/personal-blog/)!
+* Full-Stack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.github.io/personal-blog/)!
 
 * how to strengthen my algorithmic thinking skills
 
