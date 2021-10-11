@@ -9,7 +9,7 @@ I am a career-changer with a background in adult ESL education. My programming p
 * Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself 
 
 🌱   I'm currently learning ...
-* Full-Stack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.github.io/personal-blog/)!
+* Full-Stack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.netlify.app)!
 
 * how to strengthen my algorithmic thinking skills
 
