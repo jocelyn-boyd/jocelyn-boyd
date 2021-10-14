@@ -4,7 +4,7 @@
 I am a career-changer with a background in adult ESL education. My programming philosophy comes from my passion for problem-solving and creating positive user experiences.
 
 👩🏾‍💻   I'm currently working on ...
-* A personal project called [Recipe Box](https://github.com/jocelyn-boyd/recipe-box-swiftui/blob/main/README.md) in SwiftUI, a mobile search and management application for online recipes
+* A personal project called [Recipe Box](https://apps.apple.com/app/id1580841695) in SwiftUI, a mobile search and management application for online recipes. Version 1.0 is in the App Store now!
 
 * Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself 
 
