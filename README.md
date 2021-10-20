@@ -6,7 +6,7 @@ I am a career-changer with a background in adult ESL education. My programming p
 👩🏾‍💻   I'm currently working on ...
 * A personal project called [Recipe Box](https://apps.apple.com/app/id1580841695) in SwiftUI, a mobile search and management application for online recipes. Version 1.0 is in the App Store now!
 
-* Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an iOS development learning resource for self-driven learners like myself 
+* Building out [code-buddies](https://github.com/jocelyn-boyd/code-buddies), an software engineering learning resource for self-driven learners like myself
 
 🌱   I'm currently learning ...
 * Full-Stack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.netlify.app)!
