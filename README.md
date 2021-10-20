@@ -11,6 +11,6 @@ I am a career-changer with a background in adult ESL education. My programming p
 🌱   I'm currently learning ...
 * Full-Stack Web Development @ Flatiron School -- Check out my [website profile](https://jocelyn-boyd.netlify.app)!
 
-* How to strengthen my algorithmic thinking skills. Check out my DSA cheat sheet! It's a work in progress. 
+* How to strengthen my algorithmic thinking skills. Check out my [DSA cheat sheet](https://github.com/jocelyn-boyd/code-buddies/blob/main/dsa.md)! It's a work in progress. 
 
 🙂   Fun Fact: I lived abroad in Japan for several years. I am really into Japanese history and love exploring the castles, temples and shrines. I have made 45 recorded visits to temples and shrines around the country.
