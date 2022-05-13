@@ -2,5 +2,3 @@
 
 # About me
 My programming philosophy comes from my passion for problem-solving and creating positive user experiences.
-
-🌱   I'm currently learning SwiftUI.
